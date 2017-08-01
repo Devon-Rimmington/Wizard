@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DeckManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DeckOfCards.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwapSprite.cs" Line="42" Column="1" />
+      <File FileName="Assets\Scripts\OnTouch.cs" Line="6" Column="39" />
+      <File FileName="Assets\Scripts\DeckManager.cs" Line="63" Column="20" />
+      <File FileName="Assets\Scripts\OnTouchClassic.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\StopClassicCards.cs" Line="9" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

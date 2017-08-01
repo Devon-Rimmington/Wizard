@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 36c5704676276b74cabc9ee9a8c51545
+timeCreated: 1500076293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CardFrontSpriteSheet_0
+    21300002: CardFrontSpriteSheet_1
+    21300004: CardFrontSpriteSheet_2
+    21300006: CardFrontSpriteSheet_3
+    21300008: CardFrontSpriteSheet_4
+    21300010: CardFrontSpriteSheet_5
+    21300012: CardFrontSpriteSheet_6
+    21300014: CardFrontSpriteSheet_7
+    21300016: CardFrontSpriteSheet_8
+    21300018: CardFrontSpriteSheet_9
+    21300020: CardFrontSpriteSheet_10
+    21300022: CardFrontSpriteSheet_11
+    21300024: CardFrontSpriteSheet_12
+    21300026: CardFrontSpriteSheet_13
+    21300028: CardFrontSpriteSheet_14
+    21300030: CardFrontSpriteSheet_15
+    21300032: CardFrontSpriteSheet_16
+    21300034: CardFrontSpriteSheet_17
+    21300036: CardFrontSpriteSheet_18
+    21300038: CardFrontSpriteSheet_19
+    21300040: CardFrontSpriteSheet_20
+    21300042: CardFrontSpriteSheet_21
+    21300044: CardFrontSpriteSheet_22
+    21300046: CardFrontSpriteSheet_23
+    21300048: CardFrontSpriteSheet_24
+    21300050: CardFrontSpriteSheet_25
+    21300052: CardFrontSpriteSheet_26
+    21300054: CardFrontSpriteSheet_27
+    21300056: CardFrontSpriteSheet_28
+    21300058: CardFrontSpriteSheet_29
+    21300060: CardFrontSpriteSheet_30
+    21300062: CardFrontSpriteSheet_31
+    21300064: CardFrontSpriteSheet_32
+    21300066: CardFrontSpriteSheet_33
+    21300068: CardFrontSpriteSheet_34
+    21300070: CardFrontSpriteSheet_35
+    21300072: CardFrontSpriteSheet_36
+    21300074: CardFrontSpriteSheet_37
+    21300076: CardFrontSpriteSheet_38
+    21300078: CardFrontSpriteSheet_39
+    21300080: CardFrontSpriteSheet_40
+    21300082: CardFrontSpriteSheet_41
+    21300084: CardFrontSpriteSheet_42
+    21300086: CardFrontSpriteSheet_43
+    21300088: CardFrontSpriteSheet_44
+    21300090: CardFrontSpriteSheet_45
+    21300092: CardFrontSpriteSheet_46
+    21300094: CardFrontSpriteSheet_47
+    21300096: CardFrontSpriteSheet_48
+    21300098: CardFrontSpriteSheet_49
+    21300100: CardFrontSpriteSheet_50
+    21300102: CardFrontSpriteSheet_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 761
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 761
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 761
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 591
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 591
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 591
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 422
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 422
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 422
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 253
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 253
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 253
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardFrontSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 79
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
